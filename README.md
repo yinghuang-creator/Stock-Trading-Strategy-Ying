@@ -7,7 +7,29 @@ In terms of methodology, the project will utilize statistical analysis and machi
 
 ### Timeline
 
-![timeline](./assets/timeline.png)
+<!-- ![timeline](./assets/timeline.png) -->
+
+| Stage | Activity | Estimated Duration | Start Date | End Date | Deliverable | Comments |
+|------|---------|-------------------|-----------|----------|-------------|----------|
+| Research design and planning | Finalize research problems/questions |  | 2026/2/2 |  | Confirmed research problem/questions |  |
+|  | Develop research design |  |  |  | Draft research design section for final report |  |
+|  | Prepare research proposal |  |  | 2026/2/11 | Research proposal submission |  |
+| Literature review | Search, capture and synthesis relevant literature | 2 weeks | 2026/2/5 | 2026/2/20 |  |  |
+|  | Prepare literature review | 1.5 weeks | 2026/2/15 | 2026/2/28 | Draft literature review section for final report |  |
+| Data collection | Finalize sampling plan | 4 days | 2026/2/15 | 2026/2/18 | Sampling Plan |  |
+|  | Develop data collection instrument | 1 week | 2026/2/18 | 2026/2/25 | Draft data collection instrument |  |
+|  | Carry out data collection | 1.5 weeks | 2026/2/25 | 2026/3/8 | Raw data |  |
+|  | Write up data collection | 5 days | 2026/3/5 | 2026/3/10 | Draft data collection for final report |  |
+| Data analysis | Prepare data for analysis (Data cleaning, feature extraction) | 1 week | 2026/3/8 | 2026/3/15 | Data ready for analysis |  |
+|  | Analyze data (Model training, data visualization) | 3 weeks | 2026/3/15 | 2026/4/5 | Outputs from analysis |  |
+| Check-in (March) |  |  |  |  |  |  |
+|  | Draw conclusions | 1 week | 2026/4/5 | 2026/4/12 | Draft data analysis and findings section for final report |  |
+| Finalizing & Writing up | Final draft of application | 2 weeks | 2026/4/10 | 2026/4/24 | Final draft |  |
+|  | Review draft | 1 week | 2026/4/20 | 2026/4/27 | Notes of feedback |  |
+|  | Final editing | 4 days | 2026/4/27 | 2026/5/1 | Final application |  |
+| Check-in (April) |  |  |  |  |  |  |
+| Presentation | Make presentations to the instructors |  | 2026/4/25 | 2026/5/1 | YouTube video summarizing the final report |  |
+
 
 ## Clear goals
 
